@@ -9,7 +9,7 @@ library(RCurl)
 library(jsonlite)
 library(RMongo)
 library(ggplot2)
-library(plotly)
+# library(plotly)
 source("/home/cal/Documents/methodBLX/locf.R")
 
 
